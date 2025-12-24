@@ -1,0 +1,16 @@
+# Logs & temp
+*.log
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Environment
+venv/
+env/
+.env
+
+data/audio/bangla
+data/audio/english
+
+data/*.csv
+data/*.ipynb
